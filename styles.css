@@ -1,0 +1,13 @@
+.footer {
+    padding:25px 50px;
+    margin-top: 200px;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+.social a {
+    justify-content: space-around;
+    padding-top: 15px;
+    margin: 15px;
+}
