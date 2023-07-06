@@ -103,6 +103,15 @@ main {
  text-decoration: none;
 }
 
+.title_2 {
+    margin-top: 20%;
+}
+
+h2, h3 {
+    color: gray;
+    text-indent: -5%;
+}
+
 html,
 body {
     margin: 0;
