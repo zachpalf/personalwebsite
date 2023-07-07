@@ -110,6 +110,7 @@ main {
 h2, h3 {
     color: gray;
     text-indent: -5%;
+    font-size: 150%;
 }
 
 html,
