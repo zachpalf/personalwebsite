@@ -176,6 +176,58 @@ body {
     border-radius: 10px;
 }
 
+.img {
+    width: 10%;
+    padding: 10px;
+    justify-content: center;
+    margin: auto 0;
+}
+
+.faq {
+    color: black;
+    text-align: center;
+    font-size: 180%;
+    margin-top: 40%;
+}
+
+.header_1 {
+    color: gray;
+    text-align: center;
+    font-size: 150%;
+}
+
+.header_2 {
+    color: gray;
+    font-size: 150%;
+    text-align: center;
+    text-indent: 0;
+}
+
+.header_3 {
+    color: gray;
+    text-align: center;
+    font-size: 150%;
+}
+
+.head-img {
+    width: 20em;
+    justify-content: center;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border: 5px solid #0e62e4;
+    border-radius: 10%;
+    margin-bottom: -15%;
+}
+.img-head {
+    padding: 15px;
+    justify-content: center;
+}
+.mainp {
+    margin-bottom: -20%;
+}
 @keyframes glowing {
     0% { background-position: 0 0; }
     50% { background-position: 400% 0; }
